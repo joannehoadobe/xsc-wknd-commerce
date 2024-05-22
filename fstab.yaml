@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://github.com/joannehoadobe/xsc-wknd-commerce
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/joaho_adobe_com/Documents/projects/wknd-commerce?csf=1&web=1&e=LZV9dt
 
 folders:
   /products/: /products/default
